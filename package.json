@@ -13,5 +13,8 @@
     "vite": "^6.0.1",
     "@types/bun": "latest"
   },
-  "module": "index.ts"
+  "module": "index.ts",
+  "dependencies": {
+    "sass": "^1.82.0"
+  }
 }
